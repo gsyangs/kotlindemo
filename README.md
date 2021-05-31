@@ -1,3 +1,3 @@
 # kotlindemo
 
-#kotlin + retorfit+rxjava+lifecycle
+kotlin + retorfit+rxjava+lifecycle
